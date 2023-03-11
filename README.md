@@ -1,2 +1,2 @@
 # dobrohaxxor
-![img](_images/smalleye.png)
+![img](/_images/smalleye.png)
